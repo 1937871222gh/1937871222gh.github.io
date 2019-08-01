@@ -23,7 +23,7 @@
 	position: absolute;
 	top: 0;
 	left: 250px;
-	z-index: 999999999;
+	z-index: 9999999999999999;
 	width: 0;
 	height: 480px;
 	background: url(../images/ad-r.jpg);
